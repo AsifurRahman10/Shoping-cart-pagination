@@ -27,6 +27,16 @@
 }
 
 .pagination-button {
-  margin-left: 60px;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 20px;
+}
+.pagination-button button {
+  margin-left: 10px;
+}
+.selected {
+  background-color: orange;
+}
+.item-range {
+  margin-left: 10px;
 }
